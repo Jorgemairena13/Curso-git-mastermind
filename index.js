@@ -54,3 +54,4 @@ const getBlogContent = async () => {
 }
 
 getBlogContent();
+// teste commit
